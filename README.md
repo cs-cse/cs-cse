@@ -4,9 +4,8 @@ I am a Computer Science undergraduate with a keen interest and knowledge of prog
 
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cs-cse&layout=compact&theme=nightowl" />
+  &nbsp;   &nbsp;   &nbsp;   &nbsp; 
 
-  &nbsp;   &nbsp; 
- 
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cs-cse&show_icons=true&theme=nightowl" />
 
