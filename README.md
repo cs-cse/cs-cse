@@ -1,4 +1,4 @@
-**Hi all👋, I am [Chaitanya](https://www.linkedin.com/in/chaitanya-shrivastava/)**
+**Hi all👋, I am [Chaitanya](https://cs-cse.github.io/portfolio/)**
 
 I am a Computer Science undergraduate with a keen interest and knowledge of programming and technology which includes and is not limited to **C++**, **Java**, **Python**, and **Android Development**, and thorough with frameworks like **MVC**, and **MVVM**. An avid and quick learner. Working in a challenging environment further motivates me to improvise and give my best. Looking forward to collaborating and using my knowledge and experience for the betterment of the community.
 
