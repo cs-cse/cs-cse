@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi all <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
-         height="20"
-         width="20" />, I am <a href="https://cs-cse.github.io/portfolio/">Chaitanya</a>
+         height="30"
+         width="30" />, I am <a href="https://cs-cse.github.io/portfolio/">Chaitanya</a>
   </h1>
 <h5 align="center">
          
