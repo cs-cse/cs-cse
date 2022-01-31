@@ -5,9 +5,12 @@
          width="20" />, I am <a href="https://cs-cse.github.io/portfolio/">Chaitanya</a>
   </h1>
 <h5 align="center">
-
+         
+<h4 align="left">
 I am a Computer Science undergraduate with a keen interest and knowledge of programming and technology which includes and is not limited to **C++**, **Java**, **Python**, and **Android Development**, and thorough with frameworks like **MVC**, and **MVVM**. An avid and quick learner. Working in a challenging environment further motivates me to improvise and give my best. Looking forward to collaborating and using my knowledge and experience for the betterment of the community.
-
+        
+<h4 align="left">
+         
  &nbsp;   &nbsp;   &nbsp;   &nbsp; 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cs-cse&layout=compact&theme=nightowl" />
   &nbsp;   &nbsp;   &nbsp;   &nbsp; 
